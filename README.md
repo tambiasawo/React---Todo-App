@@ -1,1 +1,3 @@
-# React---Todo-App
+# React-Todo-App
+
+This application was created with React
